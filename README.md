@@ -26,7 +26,7 @@ python test.py
 ```
 
 ### 预训练权重
-[params3.pth](@note/https://pan.baidu.com/s/1dPTpA4WEWLiP8r8OxsQMxw)
+[params3.pth](https://pan.baidu.com/s/1dPTpA4WEWLiP8r8OxsQMxw)
 提取码：hgd1
 
 
